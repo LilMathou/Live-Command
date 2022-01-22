@@ -1,0 +1,17 @@
+name: SlashLive
+author: LilMathou#0130
+version: 1.0.0
+api: 4.0.0
+main: LilMathou\SlashLive\Main
+
+
+commands:
+  live:
+    description: "Permet de pub son live dans le chat"
+    usage: "/live"
+    permission: live.cmd
+
+
+permissions:
+  live.cmd:
+    default: op

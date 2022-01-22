@@ -1,0 +1,9 @@
+---
+# Si vous avez des questions à propos du plugin, vener me mp discord LilMathou#0130 | If you have any questions about the plugin, contact me on discord LilMathou#0130
+
+# Configurer le message | # Configure message
+
+msg: "{name} est en live ! N'hésité pas à aller regarder"
+
+# {name} est égal au nom du joueur | {name} is equal to the player name
+...
